@@ -1,0 +1,13 @@
+{
+    "sqldeveloper.telemetry.enabled": true,
+    "redhat.telemetry.enabled": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "java.project.referencedLibraries": [
+        
+        "lib/**/*.jar",
+        "C:/javafx-sdk-11/lib/*.jar"
+    ]
+}
